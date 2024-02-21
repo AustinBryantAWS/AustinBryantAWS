@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/04/46/11/48/360_F_446114886_GjCFG3JoSN26d08f1lvMmMxVHrMjqeVs.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/04/46/11/48/360_F_446114886_GjCFG3JoSN26d08f1lvMmMxVHrMjqeVs.jpg)
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">I am a Cloud Solutions Architect</h3>
 
