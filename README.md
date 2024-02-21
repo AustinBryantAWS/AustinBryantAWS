@@ -1,7 +1,8 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/04/46/11/48/360_F_446114886_GjCFG3JoSN26d08f1lvMmMxVHrMjqeVs.jpg)
 <h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">Cloud Solutions Architect</h3>
+<h3 align="center">I am a Cloud Solutions Architect</h3>
 
+I am a Junior Cloud Solutions Architect with experience in deploying and managing cloud infrastructure. Well versed in AWS resources such as EC2, S3, VPC, Dynamo DB, RDS, Lambda, and serverless architecture.
 
 - 📫 How to reach me **austin2001bryant@gmail.com**
 
